@@ -1,3 +1,5 @@
+[solution video](solution_video.mp4)
+
 # Extended Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 
